@@ -1,0 +1,6 @@
+Tasks
+
+1. Create tables for dataset,features and diagnosis.
+2. Load the .csv file's data into the table by the help of https://slobaray.com/2014/05/28/loading-csv-files-into-oracle-tables-using-plsql/
+
+Note: table for dataset is done in dataset_table.sql
